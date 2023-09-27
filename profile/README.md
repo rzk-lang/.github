@@ -24,6 +24,11 @@ Below we list other repositories in this organisation with brief descriptions.
 
 - [emilyriehl/yoneda](https://github.com/emilyriehl/yoneda) — a formalisation of the ∞-categorical Yoneda lemma (and its variations), and comparison with 1-categorical versions in other provers
 
+## Extra materials
+
+- <https://fizruk.github.io/itp-school-2023-demo/> — demo/tutorial for the [«Interactions of Proof Assistants and Mathematics» school](https://itp-school-2023.github.io)
+  in Regensburg, September 18–29, 2023, containing introduction to the syntax of Rzk and basics of theorem proving in Rzk, as well as a few exercises.
+
 <!--
 
 **Here are some ideas to get you started:**
