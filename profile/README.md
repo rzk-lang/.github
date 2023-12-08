@@ -2,7 +2,7 @@
 
 This organisation collects some repositories related to [rzk](https://github.com/rzk-lang/rzk), an experimental proof assistant for synthetic ∞-categories:
 
-- [rzk-lang/rzk](https://github.com/rzk-lang/rzk) — the Rzk proof assistant itself
+- [rzk-lang/rzk](https://github.com/rzk-lang/rzk) — the Rzk proof assistant
 
 Below we list other repositories in this organisation with brief descriptions.
 
@@ -16,18 +16,28 @@ Below we list other repositories in this organisation with brief descriptions.
 
 ## Formalisation projects
 
-- [rzk-lang/rzk-project-template](https://github.com/rzk-lang/rzk-project-template) — template repository for `rzk` formalisations
-- [rzk-lang/sHoTT](https://github.com/rzk-lang/sHoTT) — a formalisation library for simplicial HoTT
-- [rzk-lang/hottbook](https://github.com/rzk-lang/hottbook) — the HoTT Book formalisations in `rzk`
-
-### Known external formalisations
-
-- [emilyriehl/yoneda](https://github.com/emilyriehl/yoneda) — a formalisation of the ∞-categorical Yoneda lemma (and its variations), and comparison with 1-categorical versions in other provers
+- [rzk-lang/sHoTT](https://github.com/rzk-lang/sHoTT) — an active formalisation project for simplicial HoTT
+- [rzk-lang/hottbook](https://github.com/rzk-lang/hottbook) — the [HoTT Book](https://homotopytypetheory.org/book/) formalisations in `rzk` (early stages)
+- Known external formalizations:
+    - [emilyriehl/yoneda](https://github.com/emilyriehl/yoneda) — the ∞-categorical Yoneda lemma (and its variations), and comparison with 1-categorical versions in other provers
+- Templates:
+    - [rzk-lang/rzk-project-template](https://github.com/rzk-lang/rzk-project-template) — template repository for `rzk` formalisations
 
 ## Extra materials
 
+### Demos and tutorials
+
 - <https://fizruk.github.io/itp-school-2023-demo/> — demo/tutorial for the [«Interactions of Proof Assistants and Mathematics» school](https://itp-school-2023.github.io)
   in Regensburg, September 18–29, 2023, containing introduction to the syntax of Rzk and basics of theorem proving in Rzk, as well as a few exercises.
+- <https://fizruk.github.io/bmstu-rzk-demo-2023/> — demo/tutorial the HoTT seminar at Bauman Moscow State Technical University, Nov 20–21, 2023;
+  contains a partial introduction to homotopy type theory (following the [HoTT Book](https://homotopytypetheory.org/book/)) and simplicial type theory in Rzk.
+  Perhaps, the most approachable tutorial for newcomers unfamiliar with both dependent types and homotopy type theory.
+
+
+### Talks
+
+- «Rzk proof assistant and simplicial HoTT formalization» ([HoTTEST](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html), online, Oct 5, 2023) — [YouTube](https://www.youtube.com/watch?v=IMxPu2agUNo), [slides](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottestfiles/Kudasov-2023-10-05-HoTTEST.pdf)
+
 
 <!--
 
