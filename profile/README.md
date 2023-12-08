@@ -29,7 +29,7 @@ Below we list other repositories in this organisation with brief descriptions.
 
 - <https://fizruk.github.io/itp-school-2023-demo/> — demo/tutorial for the [«Interactions of Proof Assistants and Mathematics» school](https://itp-school-2023.github.io)
   in Regensburg, September 18–29, 2023, containing introduction to the syntax of Rzk and basics of theorem proving in Rzk, as well as a few exercises.
-- <https://fizruk.github.io/bmstu-rzk-demo-2023/> — demo/tutorial the HoTT seminar at Bauman Moscow State Technical University, Nov 20–21, 2023;
+- <https://fizruk.github.io/bmstu-rzk-demo-2023/> — demo/tutorial for the HoTT seminar at Bauman Moscow State Technical University, Nov 20–21, 2023;
   contains a partial introduction to homotopy type theory (following the [HoTT Book](https://homotopytypetheory.org/book/)) and simplicial type theory in Rzk.
   Perhaps, the most approachable tutorial for newcomers unfamiliar with both dependent types and homotopy type theory.
 
